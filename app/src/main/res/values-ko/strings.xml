@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="Name">이름</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="quantity">0</string>
+    <string name="displayPrice">$0</string>
+    <string name="Order_Summary">주문 요약</string>
+    <string name="action_settings">설정</string>
+    <string name="app_name"> 그냥 자바</string>
+    <string name="caramel">캐러멜</string>
+    <string name="chocolate"> 초콜릿</string>
+    <string name="input_lable">이름</string>
+    <string name="order">주문</string>
+    <string name="quantity_title">양</string>
+    <string name="sub"> 이름을 제출</string>
+    <string name="toppings"> 토핑</string>
+    <string name="whipped_cream"> 휘핑 크림</string>
+    <string name="album_description" translatable="false">이름</string>
+    <string name="vanilla">바닐라</string>
+    <string name="max">당신은 100 개 이상의 커피를 가질 수 없습니다</string>
+    <string name="min">사용자는 1 미만 의 커피를 가질 수 없다</string>
+</resources>

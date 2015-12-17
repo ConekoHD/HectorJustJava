@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Solo Java</string>
+
+    <string name="Name">Nombre</string>
+    <string name="quantity_title">Cantidad</string>
+    <string name="input_lable">Nombre</string>
+    <string name="sub">Enviar nombre</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="quantity">0</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="caramel">Caramelo</string>
+    <string name="order">Orden</string>
+    <string name="displayPrice">$0</string>
+    <string name="action_settings"> ajustes</string>
+    <string name="Order_Summary">Resumen del pedido</string>
+    <string name="toppings">Coberturas</string>
+    <string name="vanilla">Vainilla</string>
+    <string name="album_description" translatable="false">Nombre</string>
+    <string name="max"> No se puede tener más de 100 cafés</string>
+    <string name="min">Usted no puede tener menos de 1 café</string>
+</resources>
